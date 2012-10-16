@@ -1,4 +1,4 @@
-receipts
-========
+My Italian Receipts
+===================
 
-Italian cooking receipts
+This is a repository of my cooking receipts
